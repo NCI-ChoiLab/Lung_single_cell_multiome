@@ -1,6 +1,6 @@
 # Integrated single-cell atlas of human lung combining chromatin accessibility and gene expression
 
-This repository contains the code to analyze the single cell multiome data of human lung as part of the manuscript "Context-aware single-cell multiome approach identified cell-type specific lung cancer susceptibility genes".
+This repository contains the code to analyze the single cell multiome data of human lung as part of the manuscript "Context-aware single-cell multiomics approach identifies cell-type specific lung cancer susceptibility genes".
 
 ---
 
