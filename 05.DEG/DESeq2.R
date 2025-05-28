@@ -139,7 +139,7 @@ all(rownames(cluster_metadata) == colnames(cluster_counts))
 
 dds <- DESeqDataSetFromMatrix(cluster_counts, 
                               colData = cluster_metadata, 
-                              design = ~ group_id + sample_id)
+                              design = ~ group_id)
 dds <- DESeq(dds)
 plotDispEsts(dds)
 
